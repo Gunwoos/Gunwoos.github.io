@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "A Post with Images"
+title: "이미지 파일 올리기"
 date: 2018-08-31
-excerpt: "Examples and code for displaying images in posts."
+excerpt: "게시글에 이미지를 올리는 예시"
 tags: [sample post, images, test]
 comments: true
 ---
