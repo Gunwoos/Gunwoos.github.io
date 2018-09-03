@@ -6,10 +6,8 @@ excerpt: "For project write"
 project: true
 tag:
 - jekyll 
-- moon
 - blog
 - about
-- theme
 comments: true
 ---
 
