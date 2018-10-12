@@ -1,5 +1,5 @@
 # Allow crawling of all content
 User-agent: *
 Allow: /
-Sitemap: http://gunwoos.github.io/sitemap.xml
+Sitemap: https://gunwoos.github.io/sitemap.xml
 
